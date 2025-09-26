@@ -30,10 +30,7 @@ function Home() {
     <>
       <div className="container home  text-center">
         <div className="left" data-aos="fade-up-right" data-aos-duration="1000">
-          <h1 ref={typedRef}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Perspiciatis, soluta.
-          </h1>
+          <h1 ref={typedRef}></h1>
           <a
             href={pdf}
             download="Resume.pdf"
