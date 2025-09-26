@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "role": "Senior Frontend Developer",
+    "organisation": "Google",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "location": "CA, United States",
+    "experiences": [
+      "Worked on Google Gmail UI",
+      "Worked with the Google Bard Dashboard"
+    ],
+    "imageSrc": "company/google.png"
+  },
+  {
+    "id": 2,
+    "role": "Frontend Developer",
+    "organisation": "Microsoft",
+    "startDate": "Aug, 2022",
+    "endDate": "Aug, 2023",
+    "location": "London, UK",
+    "experiences": [
+      "Worked on Windows 10 UI components",
+      "Worked on Windows 11 Web features"
+    ],
+    "imageSrc": "company/microsoft.png"
+  },
+  {
+    "id": 3,
+    "role": "Frontend Developer Intern",
+    "organisation": "Netflix",
+    "startDate": "Apr, 2021",
+    "endDate": "Jun, 2022",
+    "location": "Bengaluru, India",
+    "experiences": [
+      "Worked on Netflix payment UI",
+      "Helped to create video player controls"
+    ],
+    "imageSrc": "company/netflix.png"
+  }
+]

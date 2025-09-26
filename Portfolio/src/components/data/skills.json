@@ -1,0 +1,30 @@
+[
+  {
+    "title": "HTML 5",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS 3",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript ES6",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React 19",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Bootstrap 5",
+    "imageSrc": "skills/bootstrap.png"
+  },
+  {
+    "title":"Tailwind Css",
+    "imageSrc":"skills/tailwind.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  }
+]
