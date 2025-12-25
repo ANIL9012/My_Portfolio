@@ -109,9 +109,13 @@ body {
   color: yellowgreen;
 }
 .expiYelloText {
-  color: yellow;
+  color: #fff;
+  text-align: left;
+  margin-left: 25px;
 }
-
+.left .logo-img{
+  border-radius: 50%;
+}
 /* ======== Skills section ======== */
 
 .skills {

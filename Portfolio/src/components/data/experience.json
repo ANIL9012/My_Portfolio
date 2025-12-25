@@ -1,41 +1,32 @@
 [
   {
     "id": 1,
-    "role": "Senior Frontend Developer",
-    "organisation": "Google",
-    "startDate": "Sept, 2023",
-    "endDate": "Present",
-    "location": "CA, United States",
+    "role": "Frontend Developer Intern",
+    "organisation": "Awwaltech pvt",
+    "startDate": "July, 2024",
+    "endDate": "January, 2025",
+    "location": "Greater Noida, India",
     "experiences": [
-      "Worked on Google Gmail UI",
-      "Worked with the Google Bard Dashboard"
+      "Developed responsive and user-friendly UI components for a Netflix-style payment interface using HTML, CSS, and JavaScript",
+      "Converted UI/UX designs into reusable and optimized frontend components",
+      "Ensured cross-browser compatibility and improved overall UI performance",
+      "Collaborated with team members using Git for version control"
     ],
-    "imageSrc": "company/google.png"
+    "imageSrc": "company/awwaltech.png"
   },
   {
     "id": 2,
     "role": "Frontend Developer",
-    "organisation": "Microsoft",
-    "startDate": "Aug, 2022",
-    "endDate": "Aug, 2023",
-    "location": "London, UK",
+    "organisation": "Awwaltech pvt",
+    "startDate": "Faruary, 2025",
+    "endDate": "Present",
+    "location": "Greater Noida, India",
     "experiences": [
-      "Worked on Windows 10 UI components",
-      "Worked on Windows 11 Web features"
+      "Developed and enhanced responsive UI components inspired by Google Gmail using modern HTML, CSS, and JavaScript",
+      "Worked on dashboard interfaces similar to Google Bard, focusing on clean layout, component reusability, and user experience",
+      "Optimized frontend performance and ensured cross-browser compatibility",
+      "Used Git for version control and followed best frontend development practices"
     ],
-    "imageSrc": "company/microsoft.png"
-  },
-  {
-    "id": 3,
-    "role": "Frontend Developer Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2021",
-    "endDate": "Jun, 2022",
-    "location": "Bengaluru, India",
-    "experiences": [
-      "Worked on Netflix payment UI",
-      "Helped to create video player controls"
-    ],
-    "imageSrc": "company/netflix.png"
+    "imageSrc": "company/awwaltech.png"
   }
 ]
