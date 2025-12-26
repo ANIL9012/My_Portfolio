@@ -25,7 +25,7 @@ function Experience() {
             </h4>
             {data.experiences.map((exp, index) => (
               <h5 key={index} className="expiYelloText">
-                {exp.length > 90 ? exp.slice(20) + "..." : exp}
+                {exp}
               </h5>
             ))}
           </div>
