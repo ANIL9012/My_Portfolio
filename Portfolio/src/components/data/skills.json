@@ -11,9 +11,17 @@
     "title": "JavaScript ES6",
     "imageSrc": "skills/javascript.png"
   },
+    {
+    "title": "Typescript",
+    "imageSrc": "skills/typescript.png"
+  },
   {
     "title": "React 19",
     "imageSrc": "skills/react.png"
+  },
+    {
+    "title": "Next js",
+    "imageSrc": "skills/nextjs.png"
   },
   {
     "title": "Bootstrap 5",

@@ -8,7 +8,7 @@ function Contact() {
   return (
     <>
       <div className="container contact">
-        <h1>CONATAC ME</h1>
+        <h1>CONTACT ME</h1>
         <div className="contact-icons" data-aos="zoom-in-up" data-aos-duration="1000">
           <a href="https://www.instagram.com/" target="_blank" className="items">
             <FaInstagram className="icon" />
