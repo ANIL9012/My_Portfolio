@@ -29,9 +29,9 @@ function Projects() {
                     <a href={data.demo} className="btn btn-primary me-2">
                       Demo
                     </a>
-                    {/* <a href={data.source} className="btn btn-warning">
+                    <a href={data.source} className="btn btn-warning">
                       Code
-                    </a> */}
+                    </a>
                   </div>
                 </div>
               </div>
