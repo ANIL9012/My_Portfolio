@@ -4,8 +4,7 @@
     "title": "Hitech Mentor",
     "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
     "description": "This is a project made with complete React js Next js.",
-    "demo": "https://www.hitechmentor.com/",
-    "source": "https://github.com/HiTech-Mentor/webui-hm-nextjs"
+    "demo": "https://www.hitechmentor.com/"
   },
   {
     "key": 2,
@@ -20,15 +19,13 @@
     "title": "Lexexrule",
     "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
     "description": "This is a project made with complete Next js.",
-    "demo": "https://www.lexexrule.com/",
-    "source": "https://github.com/Lex-Rule/webui-lexexrule"
+    "demo": "https://www.lexexrule.com/"
   },
   {
     "key": 4,
     "title": "Lawyer Lexrule",
     "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
     "description": "This is a project made with complete Next js.",
-    "demo": "https://www.lexrule.in/",
-    "source": "https://github.com/Lex-Rule/webui-lawyer-lexrule"
+    "demo": "https://www.lexrule.in/"
   }
 ]
